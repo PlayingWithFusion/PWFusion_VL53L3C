@@ -1,0 +1,33 @@
+####################################################
+#   Color mapping for PWFusion SHT3X library
+####################################################
+
+####################################################
+#   Classes (KEYWORD1)
+####################################################
+VL53L3C										KEYWORD1
+PWFusion_VL53L3C							KEYWORD1
+
+####################################################
+#   Functions (KEYWORD2)
+####################################################
+begin										KEYWORD2
+startMeasurement							KEYWORD2
+stopMeasurement								KEYWORD2
+dataIsReady									KEYWORD2
+startNextMeasurement						KEYWORD2
+getMeasurmentData							KEYWORD2
+setDistanceMode								KEYWORD2
+setTimingBudget								KEYWORD2
+setTuningParameter							KEYWORD2
+write										KEYWORD2
+read										KEYWORD2
+getStatus									KEYWORD2
+writeByte									KEYWORD2
+writeWord									KEYWORD2
+readByte									KEYWORD2
+readWord									KEYWORD2
+
+####################################################
+#   Constants (LITERAL1)
+####################################################
